@@ -1,4 +1,4 @@
-## Hi there 👋
+## I simply do truck driving and coding. Nothing special.
 
 <!--
 **dzejq97/dzejq97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
